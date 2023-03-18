@@ -1,0 +1,31 @@
+
+               procurar pasta inteira
+SELECT * < SELECIONAR TODOS 
+FROM < DE 
+
+PROCURR POR PASTA; 
+
+SELECT * FROM "EX: ALUNO " WHERE "MATRICULA = 1 ";
+
+
+                        PROCURAR POR LETRA;
+
+SELECT * FROM "EX: ALUNO WHERE NOME LIKE 'JS'  "
+
+LIKE 'J'  > BUSCAR NOMES PELA LETRA 
+JANAINA 
+JOSISVALDO
+
+
+                       procurar por letra q sao sabe onde esta
+
+sel   tds  de    'aluno' pasta 'nome' pela letra 'js'
+
+SELECT *   FROM   aluno  WHERE   NOME     LIKE     "JS"   % Js % < n sei onde esta as letras so sei que tem :D
+
+
+                   procurar por subpasta ex: matricula, cpf. responsavel
+
+
+ selc    subpast>   cpf de    subpast   em       subpast   apenas letras  g  "%">n sei onde esta
+SELECT   matricula, cpf FROM   aluno    WHERE    nome      LIKE     '%g%'                   
